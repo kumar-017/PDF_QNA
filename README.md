@@ -23,8 +23,8 @@ This web application allows users to upload PDF documents, ask questions about t
 
 1. Clone this repository:
    ```
-   git clone https://github.com/kumar-017/PDF_QNA.git
-   cd pdf-qa-app
+   git clone https://github.com/kumar-017/PDF_QNA.git <br>
+   cd PDF_QNA
    ```
 
 2. Install the required packages:

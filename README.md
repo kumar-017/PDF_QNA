@@ -53,6 +53,8 @@ This web application allows users to upload PDF documents, ask questions about t
 3. View AI-generated answers displayed on the page.
 4. (Optional) Download the Q&A history as a formatted PDF.
 
+Feel free to use it at : https://pdf-qna-i0rt.onrender.com/
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
